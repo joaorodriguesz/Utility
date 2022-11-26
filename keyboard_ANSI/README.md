@@ -14,3 +14,5 @@
 | ¿                                  | Alt+Ctrl+Shift+?                    |
 | ¡                                  | ALT+CTRL+SHIFT+!                    |
 | ß                                  | CTRL+SHIFT+&, s                     |
+| '                                  | ALT + '                             |
+| ''                                 | SHIFT + ALT + "                     |
