@@ -1,1 +1,1 @@
-# repositorio dedicado a documentacoes, scripts, tutoriais de utilidade no geral
+# repositorio dedicado a documentacoes, scripts, tutoriais de utilidade no geral 📚
